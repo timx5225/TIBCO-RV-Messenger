@@ -1,0 +1,20 @@
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\RV Messenger.exe.config
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\RV Messenger.exe
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\RV Messenger.pdb
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\MaterialSkin.dll
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\System.Data.SqlClient.dll
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\TIBCO.Rendezvous.dll
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\System.Data.SqlClient.xml
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\bin\Debug\TIBCO.Rendezvous.netmodule
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.csproj.AssemblyReference.cache
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV_Messenger.Dashboard.resources
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV_Messenger.Login.resources
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV_Messenger.Properties.Resources.resources
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV_Messenger.Register.resources
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.csproj.GenerateResource.cache
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.csproj.CoreCompileInputs.cache
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.csproj.CopyComplete
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.exe
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV Messenger.pdb
+C:\Users\timli\source\repos\RV Messenger\RV Messenger\obj\Debug\RV_Messenger.GroupChat.resources
